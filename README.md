@@ -5,7 +5,7 @@ Dette prosjektet er en teamoppgave fra GET Academy (Start IT).
 Oppgaven går ut på å lage en enkel *inventory*-løsning, tilsvarende et inventory i et spill, ved hjelp av HTML, CSS og JavaScript.
 
 🔗 **Live demo:**  
-https://malinfossum.github.io/getacademy-teamoppgave_1/
+https://malinfossum.github.io/getacademy-teamoppgave-1/
 
 ## Beskrivelse
 Brukeren kan klikke på ulike elementer for å legge dem i et inventory.  
